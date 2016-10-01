@@ -1,0 +1,7 @@
+Godown:
+
+config voucher
+
+if field fgodown is set true then godown will be listed in goods receipt and issue if false then its considerd  as the shop does not have godown then in access control database will be automaticaly visible will be false
+
+

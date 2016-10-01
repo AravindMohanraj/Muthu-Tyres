@@ -1,0 +1,3 @@
+database updation
+
+lstiled data base add fBranchT to query used in item stock card

@@ -1,0 +1,17 @@
+0
+
+Hi
+
+ 
+
+First of all you have to share printer
+
+Then open command prompt
+
+Type the following
+
+net use lpt1: \\127.0.0.1\printersharename /Persistenst:Yes
+
+ 
+
+This will work
